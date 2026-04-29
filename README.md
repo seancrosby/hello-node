@@ -1,7 +1,7 @@
 # hello-node
 Hello World in Node using Express Framework
 
-# Creation Log
+## Creation Log
 
 ```bash
 
@@ -21,3 +21,7 @@ mv hello.js index.js # fix the name of the code file
 ./serve.sh # start the service
 
 ```
+
+## Viewing the site
+
+Open `http://localhost:3000/` in a browser
